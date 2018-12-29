@@ -36,4 +36,7 @@
    new input formats, new validation rules, new output formats
    and manage this input types,validation rules and output formats from
    configuration (see appsettings.json) without changing single line of code.
+   
+![appsettings](https://user-images.githubusercontent.com/11095906/50542221-45451c80-0bc9-11e9-9e64-7bdb30b6ad9e.png)
+   
   
