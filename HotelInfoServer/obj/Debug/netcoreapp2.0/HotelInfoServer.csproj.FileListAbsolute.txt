@@ -1,0 +1,12 @@
+C:\Users\gokay\Desktop\burganAssignment\hotelInfo\HotelInfoServer\HotelInfoServer\bin\Debug\netcoreapp2.0\HotelInfoServer.deps.json
+C:\Users\gokay\Desktop\burganAssignment\hotelInfo\HotelInfoServer\HotelInfoServer\bin\Debug\netcoreapp2.0\HotelInfoServer.runtimeconfig.json
+C:\Users\gokay\Desktop\burganAssignment\hotelInfo\HotelInfoServer\HotelInfoServer\bin\Debug\netcoreapp2.0\HotelInfoServer.runtimeconfig.dev.json
+C:\Users\gokay\Desktop\burganAssignment\hotelInfo\HotelInfoServer\HotelInfoServer\bin\Debug\netcoreapp2.0\HotelInfoServer.dll
+C:\Users\gokay\Desktop\burganAssignment\hotelInfo\HotelInfoServer\HotelInfoServer\bin\Debug\netcoreapp2.0\HotelInfoServer.pdb
+C:\Users\gokay\Desktop\burganAssignment\hotelInfo\HotelInfoServer\HotelInfoServer\obj\Debug\netcoreapp2.0\HotelInfoServer.csproj.CoreCompileInputs.cache
+C:\Users\gokay\Desktop\burganAssignment\hotelInfo\HotelInfoServer\HotelInfoServer\obj\Debug\netcoreapp2.0\HotelInfoServer.AssemblyInfoInputs.cache
+C:\Users\gokay\Desktop\burganAssignment\hotelInfo\HotelInfoServer\HotelInfoServer\obj\Debug\netcoreapp2.0\HotelInfoServer.AssemblyInfo.cs
+C:\Users\gokay\Desktop\burganAssignment\hotelInfo\HotelInfoServer\HotelInfoServer\obj\Debug\netcoreapp2.0\HotelInfoServer.dll
+C:\Users\gokay\Desktop\burganAssignment\hotelInfo\HotelInfoServer\HotelInfoServer\obj\Debug\netcoreapp2.0\HotelInfoServer.pdb
+C:\Users\gokay\Desktop\burganAssignment\hotelInfo\HotelInfoServer\HotelInfoServer\obj\Debug\netcoreapp2.0\HotelInfoServer.csprojAssemblyReference.cache
+C:\Users\gokay\Desktop\burganAssignment\hotelInfo\HotelInfoServer\HotelInfoServer\obj\Debug\netcoreapp2.0\HotelInfoServer.csprojResolveAssemblyReference.cache
